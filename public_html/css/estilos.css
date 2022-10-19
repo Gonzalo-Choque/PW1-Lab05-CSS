@@ -80,8 +80,16 @@ div {
     height: 400px;
 }
 img.perfil{
+    border-radius: 5px;
     height: 390px;
     witdh: 300px;
+    display: block;
+    margin: auto;
+}
+img.principal{
+    border-radius: 5px;
+    height: 390px;
+    witdh: 790px;
     display: block;
     margin: auto;
 }
