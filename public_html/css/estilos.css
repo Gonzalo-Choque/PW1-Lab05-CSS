@@ -76,20 +76,21 @@ address {
 div {
     border-radius: 5px;
     background: #ccc;
-    witdh: 800px;
+    width: auto;
     height: 400px;
 }
-img.perfil{
+img {
     border-radius: 5px;
     height: 390px;
-    witdh: 300px;
-    display: block;
     margin: auto;
+    display: block;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+img.perfil{     
+    width: 300px;
 }
 img.principal{
-    border-radius: 5px;
-    height: 390px;
-    witdh: 790px;
-    display: block;
-    margin: auto;
+    width: 690px;   
 }
